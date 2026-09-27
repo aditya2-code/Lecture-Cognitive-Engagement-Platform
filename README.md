@@ -2,7 +2,7 @@
 
 A privacy-preserving, on-device multimodal AI platform that reads audience attention and confusion in real time — without ever recording, storing, or transmitting video. It runs as a companion tab alongside any meeting platform (Zoom, Google Meet, Teams) or in-person lecture setup.
 
-**Live demo:** `https://your-project.vercel.app` *(update once deployed)*
+**Live demo:** `(https://lecture-cognitive-engagement-platfo.vercel.app)`
 
 ---
 
